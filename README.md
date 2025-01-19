@@ -17,7 +17,7 @@ git clone repository_url
 
 docker-compose up --build
 
-## Swagger URL:
+## Local Swagger URL:
 
 http://localhost:9000/docs
 
@@ -40,6 +40,11 @@ http://localhost:9000/docs
 A Postman collection containing all API endpoints, example requests, and responses is included in this repository. You can import the collection to your Postman app and use it for testing.
 
 **Postman Collection**: [Download Postman Collection](./postman/TaskManagementAPI.postman_collection.json)
+
+### Deployment
+i have deployed this in Render platform
+
+**Live URL** : https://taskmanagementapi-5za5.onrender.com/docs#/
 
 
 ## Stopping and Managing Containers
